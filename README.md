@@ -68,8 +68,8 @@ Based on the analyasis, we recommend  the following actions:
 
 ### References
 
-1. Links : - https://www.pipedrive.com/en/blog/sales-data
-           - https://www.businessnewsdaily.com/16012-sales-analytics.html
-
+1. Links : -  https://www.pipedrive.com/en/blog/sales-data
+           -  https://www.businessnewsdaily.com/16012-sales-analytics.html
+           -  https://blog.close.com/sales-analysis/  
   
   
